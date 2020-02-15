@@ -1,2 +1,2 @@
 # CISC2000
-Repository containing labs from CSII 
+CSII Labs and Projects
